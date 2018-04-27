@@ -1,0 +1,15 @@
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\bin\Release\OSProUI.exe.config
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\bin\Release\OSProUI.exe
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\bin\Release\OSProUI.pdb
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.csprojResolveAssemblyReference.cache
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.data_gride.resources
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.Form1.resources
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.Form2.resources
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.Form3.resources
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.Properties.Resources.resources
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.csproj.GenerateResource.Cache
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.exe
+C:\3anQa2\College\College Projects\zay-el-fol-isa\OSProUI\OSProUI\obj\Release\OSProUI.pdb
+C:\Users\Rania\Downloads\SchedAssignment\OS Sched Assignment\Code\Code\OSProUI\bin\Release\OSProUI.exe.config
+C:\Users\Rania\Downloads\SchedAssignment\OS Sched Assignment\Code\Code\OSProUI\obj\Release\OSProUI.exe
+C:\Users\Rania\Downloads\SchedAssignment\OS Sched Assignment\Code\Code\OSProUI\obj\Release\OSProUI.pdb
